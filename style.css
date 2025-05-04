@@ -1,0 +1,448 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    /* background-color: #242423;  */
+    background-color: #f2f2f2;
+    /* color:#242423; */
+    color:#003366;
+}
+
+header {
+    background-color:#ADD8E6; 
+    padding: 20px;
+    text-align: center;
+    color: #003366;
+}
+h1{
+    color:#003366;
+    font-size: 40px;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #003366;
+}
+
+section {
+    padding: 50px;
+    margin-bottom: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+    z-index: -999;
+}
+
+section img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color:#ADD8E6;
+}
+div {
+    position: relative;
+}
+.Kvad{
+    height: 200px;
+    width: 200px;
+    background-color: #f2f2f2;
+    color:#003366;
+    border-radius: 15px;;
+}
+.MoscowKv{
+    position:relative;
+    font-size: 28px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    left:25px;
+    top: 25px;
+}
+#MoscowTextKv2{
+    left:8px;
+    top: 20px;
+}
+#MoscowTextKv3{
+    top:0px;
+}
+#MoscowTextKv4{
+    left: 5px;
+}
+#Moscow1{
+    position: absolute;
+    left: 150px;
+    top:-328px;
+}
+#Moscow2{
+    position: absolute;
+    left: 450px;
+    margin-top: -328px;
+}
+#Moscow3{
+    position: absolute;
+    left: 750px;
+    margin-top: -328px;
+}
+#Moscow4{
+    position: absolute;
+    left: 1050px;
+    margin-top: -328px;
+}
+#FotoMoscow{
+    height: 800px;
+    width: auto;
+}
+
+#h2{
+    z-index: 20;
+    position: absolute;
+    color:#f2f2f2;
+    font-size: 100px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    left: 550px;
+    margin-top:300px;
+}
+video{
+    height: 800px;
+    width: auto;
+}
+#footer{
+    color: #003366;
+}
+
+
+
+.SPBKv{
+    position:relative;
+    font-size: 28px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    left: 20px;
+    top: 30px;
+}
+#SPBTextKv1{
+
+    top: 10px;
+}
+#SPBTextKv2{
+    left:8px;
+    top: 50px;
+}
+#SPBTextKv3{
+    top:20px;
+}
+#SPBTextKv4{
+    left: 5px;
+}
+#SPB1{
+    position: absolute;
+    left: 150px;
+    top:-328px;
+}
+#SPB2{
+    position: absolute;
+    left: 450px;
+    margin-top: -328px;
+}
+#SPB3{
+    position: absolute;
+    left: 750px;
+    margin-top: -328px;
+}
+#SPB4{
+    position: absolute;
+    left: 1050px;
+    margin-top: -328px;
+}
+#FotoSPB{
+    height: 800px;
+    width: auto;
+}
+#SPB{
+    background-image: url(moscow.mp4);
+}
+#h3{
+    z-index: 20;
+    position: absolute;
+    color:#f2f2f2;
+    font-size: 100px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    left: 520px;
+    margin-top:200px;
+}
+
+
+.KRDKv{
+    position:relative;
+    font-size: 28px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#KRDTextKv1{
+    left:30px;
+    top: 40px;
+}
+#KRDTextKv2{
+    left:25px;
+    margin-top: 60px;
+}
+#KRDTextKv3{
+    top:30px;
+    left: 30px;
+}
+#KRDTextKv4{
+    margin-top:70px;
+    left: 5px;
+}
+#KRD1{
+    position: absolute;
+    left: 150px;
+    top:-328px;
+}
+#KRD2{
+    position: absolute;
+    left: 450px;
+    margin-top: -328px;
+}
+#KRD3{
+    position: absolute;
+    left: 750px;
+    margin-top: -328px;
+}
+#KRD4{
+    position: absolute;
+    left: 1050px;
+    margin-top: -328px;
+}
+#FotoKRD{
+    height: 800px;
+    width: auto;
+}
+#KRD{
+    background-image: url(moscow.mp4);
+}
+#h4{
+    z-index: 20;
+    position: absolute;
+    color:#f2f2f2;
+    font-size: 100px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    left: 500px;
+    margin-top:300px;
+}
+
+
+.SOCKv{
+    position:relative;
+    font-size: 28px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#SOCTextKv1{
+    left:30px;
+    top: 40px;
+}
+#SOCTextKv2{
+    left:25px;
+    margin-top: 60px;
+}
+#SOCTextKv3{
+    top:20px;
+    left: 30px;
+}
+#SOCTextKv4{
+    margin-top:40px;
+    left: 5px;
+}
+#SOC1{
+    position: absolute;
+    left: 150px;
+    top:-328px;
+}
+#SOC2{
+    position: absolute;
+    left: 450px;
+    margin-top: -328px;
+}
+#SOC3{
+    position: absolute;
+    left: 750px;
+    margin-top: -328px;
+}
+#SOC4{
+    position: absolute;
+    left: 1050px;
+    margin-top: -328px;
+}
+#FotoSOCD{
+    height: 800px;
+    width: auto;
+}
+#SOC{
+    background-image: url(moscow.mp4);
+}
+#h5{
+    z-index: 20;
+    position: absolute;
+    color:#f2f2f2;
+    font-size: 100px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    left: 600px;
+    margin-top:300px;
+}
+
+.VLDKv{
+    position:relative;
+    font-size: 28px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#VLDTextKv1{
+    left:30px;
+    top: 40px;
+}
+#VLDTextKv2{
+    left:25px;
+    margin-top: 60px;
+}
+#VLDTextKv3{
+    top:30px;
+    left: 10px;
+}
+#VLDTextKv4{
+    margin-top:40px;
+    left: 5px;
+}
+#VLD1{
+    position: absolute;
+    left: 150px;
+    top:-328px;
+}
+#VLD2{
+    position: absolute;
+    left: 450px;
+    margin-top: -328px;
+}
+#VLD3{
+    position: absolute;
+    left: 750px;
+    margin-top: -328px;
+}
+#VLD4{
+    position: absolute;
+    left: 1050px;
+    margin-top: -328px;
+}
+#FotoVLD{
+    height: 800px;
+    width: auto;
+}
+#VLD{
+    background-image: url(moscow.mp4);
+}
+#h6{
+    z-index: 20;
+    position: absolute;
+    color:#f2f2f2;
+    font-size: 100px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    left: 400px;
+    margin-top:300px;
+}
+
+.KRMKv{
+    position:relative;
+    font-size: 28px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+#KRMTextKv1{
+    left:30px;
+    top: 40px;
+}
+#KRMTextKv2{
+    left:25px;
+    margin-top: 40px;
+}
+#KRMTextKv3{
+    top:30px;
+    left: 10px;
+}
+#KRMTextKv4{
+    margin-top:40px;
+    left: 5px;
+}
+#KRM1{
+    position: absolute;
+    left: 150px;
+    top:-328px;
+}
+#KRM2{
+    position: absolute;
+    left: 450px;
+    margin-top: -328px;
+}
+#KRM3{
+    position: absolute;
+    left: 750px;
+    margin-top: -328px;
+}
+#KRM4{
+    position: absolute;
+    left: 1050px;
+    margin-top: -328px;
+}
+#FotoKRM{
+    height: 800px;
+    width: auto;
+}
+#KRM{
+    background-image: url(moscow.mp4);
+}
+#h7{
+    z-index: 20;
+    position: absolute;
+    color:#f2f2f2;
+    font-size: 100px;
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    left: 400px;
+    margin-top:300px;
+}
+h2{
+    font-weight: 600;
+}
+h3{
+    font-weight: 600;
+}
+h4{
+    font-weight: 600;
+}
+h5{
+    font-weight: 600;
+}
+h6{
+    font-weight: 600;
+}
